@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return <div>home</div>;
+  return <div>đm thằng lồn long</div>;
 }
 
 export default App;
